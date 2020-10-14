@@ -6,17 +6,17 @@ http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 #EXTINF:0 radio="false" tvg-chno="3" group-title="República Dominicana",Telemicro Canal 5
 http://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:0 radio="false" tvg-chno="4" group-title="República Dominicana",Antena 7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAyNjA2MjE1LCJzZXNzaW9uIjoiMTc5LjUyLjIxNS4zMyIsIndoaXRlbGlzdCI6WyIxNDguMTAxLjQwLjEwNSJdfSwic2lnbmF0dXJlIjoiZTJmNjU2OTU0YzkwODEzMGU4MjIxMzQ4YmVhZjBiYWI2Yjk3MGJmMiJ9
+https://do-antena7-antena7-live-0-cdn-0.ned.media/antena7/smil:antena7.smil/media-ulmgft9we_b364000_38114.ts?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAyNzg1NTM5LCJzZXNzaW9uIjoiMTc5LjUyLjIwNy4xMDkiLCJ3aGl0ZWxpc3QiOlsiMTQ4LjEwMS40Ni44MSJdfSwic2lnbmF0dXJlIjoiYzVhYzE0ZGU1ZmNjY2YyYmZhYjAyNzMzY2NlYjQ3MDBkYmZiMDg2ZiJ9
 #EXTINF:0 radio="false" tvg-chno="5" group-title="República Dominicana",Color Vision 9
-https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=xjebV-apRJr_opuYeko6xw2DnV9tkAYR_7VQELJ1irsC3cFUsWMXsXXHl47HXq7c
+https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=xjebV-apRJr_opuYeko6x4Snx9SNshyhxgPlLGEqBvQqp1j-9mnHitvqi1nKQPiI
 #EXTINF:0 radio="false" tvg-chno="6" group-title="República Dominicana",Telesistema 11
 https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w1465509066.m3u8
 #EXTINF:0 radio="false" tvg-chno="7" group-title="República Dominicana",Telecentro 13
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 #EXTINF:0 radio="false" tvg-chno="8" group-title="República Dominicana",Digital 15
-https://playback.akamaized.net/streams/27456795_8268514_lsi27v2qhlgopwbmd68_1/media/27456795_8268514_lsi27v2qhlgopwbmd68_1@628000p.m3u8?dw=14400&ts=1602522000&hdnts=exp=1602696332~acl=/streams/27456795_8268514_lsi27v2qhlgopwbmd68_1/media*~hmac=ab30fba27f5e3ce719d7da3e552b5f8ff25578f32b60cfb9139846810d7b6237
+https://playback.akamaized.net/streams/27456795_8268514_lsio5zwfjmpb0013qhx_1/media/27456795_8268514_lsio5zwfjmpb0013qhx_1@628000p.m3u8?dw=14400&ts=1602698400&hdnts=exp=1602871642~acl=/streams/27456795_8268514_lsio5zwfjmpb0013qhx_1/media*~hmac=5170dfb01c9cedbef60ba8f5e4c7d7bac0ba29eafcc7bdbf5cc3db2dc41aef15
 #EXTINF:0 radio="false" tvg-chno="9" group-title="República Dominicana",CDN 37
-https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602782931~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=b2edc8372d8b9835ffca7219e8a6e34c49f904ab77b1d704ed5642717690ab1b
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602785347~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=bb20866305d64e5fada6ca46c6b8f252f9e370db2ef79ac795222f330ff5ddd8
 #EXTINF:-1 radio="false" tvg-chno="10" group-title="Premium 1",axn
 https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/31_.m3u8
 #EXTINF:-1 radio="false" tvg-chno="11" group-title="Premium 1",bandamax
