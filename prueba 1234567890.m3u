@@ -1,19 +1,157 @@
 #EXTM3U
-#EXTINF:0 group-title="República Dominicana" ,Teleantillas
+#EXTINF:0 radio="false" tvg-chno="1" group-title="República Dominicana",Teleantillas
 https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1203400798.m3u8
-#EXTINF:0 group-title="República Dominicana" ,Canal 4RD
+#EXTINF:0 radio="false" tvg-chno="2" group-title="República Dominicana",Canal 4RD
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
-#EXTINF:0 group-title="República Dominicana" ,Telemicro Canal 5
+#EXTINF:0 radio="false" tvg-chno="3" group-title="República Dominicana",Telemicro Canal 5
 http://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:0 group-title="República Dominicana" ,Antena 7
+#EXTINF:0 radio="false" tvg-chno="4" group-title="República Dominicana",Antena 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAyNjA2MjE1LCJzZXNzaW9uIjoiMTc5LjUyLjIxNS4zMyIsIndoaXRlbGlzdCI6WyIxNDguMTAxLjQwLjEwNSJdfSwic2lnbmF0dXJlIjoiZTJmNjU2OTU0YzkwODEzMGU4MjIxMzQ4YmVhZjBiYWI2Yjk3MGJmMiJ9
-#EXTINF:0 group-title="República Dominicana" ,Color Vision 9
+#EXTINF:0 radio="false" tvg-chno="5" group-title="República Dominicana",Color Vision 9
 https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=xjebV-apRJr_opuYeko6xw2DnV9tkAYR_7VQELJ1irsC3cFUsWMXsXXHl47HXq7c
-#EXTINF:0 group-title="República Dominicana" ,Telesistema 11
+#EXTINF:0 radio="false" tvg-chno="6" group-title="República Dominicana",Telesistema 11
 https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w1465509066.m3u8
-#EXTINF:0 group-title="República Dominicana" ,Telecentro 13
+#EXTINF:0 radio="false" tvg-chno="7" group-title="República Dominicana",Telecentro 13
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
-#EXTINF:0 group-title="República Dominicana" ,Digital 15
+#EXTINF:0 radio="false" tvg-chno="8" group-title="República Dominicana",Digital 15
 https://playback.akamaized.net/streams/27456795_8268514_lsi27v2qhlgopwbmd68_1/media/27456795_8268514_lsi27v2qhlgopwbmd68_1@628000p.m3u8?dw=14400&ts=1602522000&hdnts=exp=1602696332~acl=/streams/27456795_8268514_lsi27v2qhlgopwbmd68_1/media*~hmac=ab30fba27f5e3ce719d7da3e552b5f8ff25578f32b60cfb9139846810d7b6237
-#EXTINF:0 group-title="República Dominicana" ,CDN 37
-https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602610567~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=a84d90ed385adae9dde270ef697e29fb44cf958e566f1509f571b366c0b515ea
+#EXTINF:0 radio="false" tvg-chno="9" group-title="República Dominicana",CDN 37
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602778587~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=9c831bd0fee94531c4275c68860899dce05ffd952c774f81d9c63ecce88f97a3
+#EXTINF:-1 radio="false" tvg-chno="10" group-title="Premium 1",axn
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/31_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="11" group-title="Premium 1",bandamax
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/17_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="12" group-title="Premium 1",bein sport
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/71_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="13" group-title="Premium 1",cartoon network
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/25_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="14" group-title="Premium 1",cdf
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/20_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="15" group-title="Premium 1",cine canal
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/59_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="16" group-title="Premium 1",cnn int
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/12_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="17" group-title="Premium 1",directv
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/41_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="18" group-title="Premium 1",directv 2
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/42_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="19" group-title="Premium 1",discovery
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/63_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="20" group-title="Premium 1",discovery h&h
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/62_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="21" group-title="Premium 1",discovery id
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/28_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="22" group-title="Premium 1",discovery kids
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/24_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="23" group-title="Premium 1",discovery science
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/61_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="24" group-title="Premium 1",discovery theater
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/27_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="25" group-title="Premium 1",discovery TLC
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/53_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="26" group-title="Premium 1",discovery turbo
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/60_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="27" group-title="Premium 1",discovery world
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/26_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="28" group-title="Premium 1",disney
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/58_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="29" group-title="Premium 1",disney jr
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/57_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="30" group-title="Premium 1",distrito comedia
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/36_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="31" group-title="Premium 1",espn
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/73_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="32" group-title="Premium 1",espn 3
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/72_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="33" group-title="Premium 1",espn+
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/48_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="34" group-title="Premium 1",euro sport 1
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/8_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="35" group-title="Premium 1",euro sport 2
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/9_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="36" group-title="Premium 1",fox
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/45_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="37" group-title="Premium 1",fox action
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/70_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="38" group-title="Premium 1",fox comedy
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/68_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="39" group-title="Premium 1",fox family
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/69_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="40" group-title="Premium 1",fox life
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/33_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="41" group-title="Premium 1",fox movies
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/40_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="42" group-title="Premium 1",fox sport
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/74_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="43" group-title="Premium 1",fox sport 2
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/47_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="44" group-title="Premium 1",fox sport 3
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/46_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="45" group-title="Premium 1",gol tv
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/2_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="46" group-title="Premium 1",golf
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/10_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="47" group-title="Premium 1",hbo
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/67_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="48" group-title="Premium 1",hbo family
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/65_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="49" group-title="Premium 1",hbo plus
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/64_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="50" group-title="Premium 1",hbo2
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/66_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="51" group-title="Premium 1",history
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/49_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="52" group-title="Premium 1",history 2
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/15_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="53" group-title="Premium 1",Las Estrellas
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/34_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="54" group-title="Premium 1",movistar estrenos
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/4_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="55" group-title="Premium 1",movistar licamp
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/5_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="56" group-title="Premium 1",movistar series
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/3_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="57" group-title="Premium 1",MTV
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/54_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="58" group-title="Premium 1",natgeo
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/30_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="59" group-title="Premium 1",natgeo wild
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/29_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="60" group-title="Premium 1",NICK
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/56_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="61" group-title="Premium 1",Nick 2
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/55_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="62" group-title="Premium 1",Nick JR
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/16_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="63" group-title="Premium 1",NICKtoons
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/18_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="64" group-title="Premium 1",sky
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/11_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="65" group-title="Premium 1",sony
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/32_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="66" group-title="Premium 1",space
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/39_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="67" group-title="Premium 1",SYFY
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/7_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="68" group-title="Premium 1",tcm
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/19_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="69" group-title="Premium 1",telemundo
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/52_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="70" group-title="Premium 1",telenovelas
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/51_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="71" group-title="Premium 1",tnt
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/38_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="72" group-title="Premium 1",tnt series
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/37_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="73" group-title="Premium 1",TNT Sports
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/50_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="74" group-title="Premium 1",TRU TV
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/13_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="75" group-title="Premium 1",UNICABLE
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/14_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="76" group-title="Premium 1",UNIVISION NY
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/35_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="77" group-title="Premium 1",WIN SPORTS
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/44_.m3u8
+#EXTINF:-1 radio="false" tvg-chno="78" group-title="Premium 1",WIN SPORTS+
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/1_.m3u8
